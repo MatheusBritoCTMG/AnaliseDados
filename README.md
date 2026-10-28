@@ -56,4 +56,4 @@ Cada atividade fica em uma pasta numerada com:
 - [Atlas do Desenvolvimento Humano no Brasil](http://www.atlasbrasil.org.br/): IDHM
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=whitewww.linkedin.com/in/matheus-brito-74902634b)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/matheus-brito-74902634b)
